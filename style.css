@@ -1,0 +1,14 @@
+body{
+	margin:20px auto;
+	background-color:#fc9595;
+	text-align:center;
+}
+.grid{
+	display: flex;
+	flex-wrap: wrap;
+	height: 600px;
+	width: 385px;
+	margin: 20px auto;
+	background-color: #ec2708;
+	border-radius: 10px;
+}
